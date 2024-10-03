@@ -1,0 +1,12 @@
+git add .
+git commit -m "nach wirrwar um master und main ein neuer push"
+git push heroku master
+
+
+
+
+
+
+heroku restart -a discordcoh
+
+
